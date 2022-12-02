@@ -1,2 +1,1 @@
-# personal_website
-My personal resume website
+This is my personal resume website made using flutter
